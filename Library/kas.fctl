@@ -1,0 +1,13 @@
+{
+  "tools": [
+    {
+      "nr": "1",
+      "path": "6mm_Endmill.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "6mm_Bullnose.fctb"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "6mm_Endmill_2F001",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "CuttingEdgeHeight": "20.00 mm",
+    "Diameter": "6.00 mm",
+    "Length": "50.00 mm",
+    "ShankDiameter": "6.00 mm"
+  },
+  "attribute": {}
+}
