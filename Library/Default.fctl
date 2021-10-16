@@ -35,6 +35,18 @@
     {
       "nr": 10,
       "path": "/home/skaspar/Documents/repos/FreeCADTools/Bit/6mm_Endmill_1F.fctb"
+    },
+    {
+      "nr": 11,
+      "path": "/home/skaspar/Documents/repos/FreeCADTools/Bit/1_5mm_Endmill.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "/home/skaspar/Documents/repos/FreeCADTools/Bit/1_8_2F_Endmill.fctb"
+    },
+    {
+      "nr": 13,
+      "path": "/home/skaspar/Documents/repos/FreeCADTools/Bit/2mm_Endmill.fctb"
     }
   ],
   "version": 1
